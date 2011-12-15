@@ -1,0 +1,4 @@
+<?php
+
+echo 'frederik2';
+?>
